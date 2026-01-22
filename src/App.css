@@ -9,6 +9,8 @@
 
 .App {
   text-align: center;
+  height: 100vh;
+  background-color: #FAFAFA;
 }
 
 .App-logo {
